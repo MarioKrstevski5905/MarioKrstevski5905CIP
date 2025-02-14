@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_2/Lecture1/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Java_2/Lecture1/Exercise1/Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2/Lecture1/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Java_2/Lecture1/Exercise2/Exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2/Lecture1/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/Java_2/Lecture1/Exercise3/Exercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2/Lecture1/Exercise4/Exercise4.iml" filepath="$PROJECT_DIR$/Java_2/Lecture1/Exercise4/Exercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2/Lecture1/Exercise5/Exercise5.iml" filepath="$PROJECT_DIR$/Java_2/Lecture1/Exercise5/Exercise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2/Lecture1/Exercise6/Exercise6.iml" filepath="$PROJECT_DIR$/Java_2/Lecture1/Exercise6/Exercise6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2/Lecture1/Exercise7/Exercise7.iml" filepath="$PROJECT_DIR$/Java_2/Lecture1/Exercise7/Exercise7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2/Java_2.iml" filepath="$PROJECT_DIR$/Java_2/Java_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2/Lecture1/Lecture1.iml" filepath="$PROJECT_DIR$/Java_2/Lecture1/Lecture1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MarioKrstevski5905CIP.iml" filepath="$PROJECT_DIR$/.idea/MarioKrstevski5905CIP.iml" />
+    </modules>
+  </component>
+</project>
