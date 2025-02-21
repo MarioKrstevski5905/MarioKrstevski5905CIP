@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        Path filePath = Paths.get("Java_2/Lesson1/uniqueName_1739551728024.txt");
+        Path filePath = Paths.get("Java_2/Lecture1/uniqueName_1739551728024.txt");
         try{
             List<String> lines = Files.readAllLines(filePath);
             System.out.println("Number of lines: " + lines.size());
